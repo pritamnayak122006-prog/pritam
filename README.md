@@ -1,1 +1,1 @@
-# pritam pursing computer science engineerng
+# pritam pursing computer science engineerng specilization in data science
